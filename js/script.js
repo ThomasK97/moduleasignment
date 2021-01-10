@@ -12,7 +12,7 @@ var fruit = "Orange";
 //Question 2
 
 var fName = "Thomas";
-var lName = "Kildahl";
+var lName = " Kildahl";
 var fullName = fName + lName;
 
 console.log(fullName);
@@ -38,7 +38,9 @@ else{
 // Question 5
 
 
-
+for (var i = 7; i < 14; i++) {
+    console.log(i);
+ }
 
 
 
